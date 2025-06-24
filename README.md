@@ -26,7 +26,7 @@ O programa permite:
 ## Arquivos principais
 | Arquivo               | Descrição                                                  |
 |-----------------------|------------------------------------------------------------|
-| `Arvore_2-3-4.c`        | Implementação completa da árvore 2-3-4 e interface CLI.  |
+| `Arvore_2-3-4.c`      | Implementação completa da árvore 2-3-4 e interface CLI.  |
 | `README.md`           | Este documento.                                            |
 
 ---
